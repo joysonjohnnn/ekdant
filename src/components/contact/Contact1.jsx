@@ -18,7 +18,7 @@ const Contact1 = () => {
             <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
               <div className="sec-title-wrapper">
                 <h2 className="sec-title-2 animation__char_come" ref={charAnim}>
-                  Let’s get in touch
+                  <br/><br/>Let’s get in touch
                 </h2>
               </div>
             </div>
@@ -26,7 +26,7 @@ const Contact1 = () => {
               <div className="contact__text">
                 <p>
                   {
-                    "Great! We're excited to hear from you and let's start something special togerter. call us for any inquery."
+                    "Great! We're excited to hear from you and let's start something special togather. Feel Free to call us for any inquery."
                   }
                 </p>
               </div>
@@ -39,9 +39,9 @@ const Contact1 = () => {
                   className="sub-title-anim-top animation__word_come"
                   ref={wordAnim}
                 >
-                  {"Don't be afraid man ! "}
+                  {"Feel Free to! "}
                   <br />
-                  say hello
+                  say hello 👋
                 </h3>
                 <ul>
                   <li>
@@ -90,12 +90,22 @@ const Contact1 = () => {
                     </div>
                   </div>
                   <div className="row g-3">
-                    <div className="col-12">
+                    <div className="col-6">
                       <div className="btn_wrapper">
                         <button className="wc-btn-primary btn-hover btn-item">
                           <span></span> Send <br />
                           Messages <i className="fa-solid fa-arrow-right"></i>
                         </button>
+                        
+                      </div>
+                    </div>
+                    <div className="col-6">
+                      <div className="btn_wrapper">
+                        <button className="wc-btn-primary btn-hover btn-item">
+                          <span></span> WhatsApp <br />
+                          us <i className="fa-solid fa-arrow-right"></i>
+                        </button>
+                        
                       </div>
                     </div>
                   </div>

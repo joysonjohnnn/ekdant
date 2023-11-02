@@ -11,7 +11,7 @@ const Contact = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-        <RootLayout header="header1" footer="footer1" defaultMode="dark">
+        <RootLayout header="header2" footer="footer1" defaultMode="dark">
           <Contact1 />
         </RootLayout>
       </main>

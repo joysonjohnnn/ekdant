@@ -4978,25 +4978,25 @@ img {
 }
 .offcanvas__social {
   padding-left: 50px;
-  padding-top: 220px;
+  padding-top: 20px;
   border-bottom: 1px solid var(--black-4);
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .offcanvas__social {
     padding-left: 50px;
-    padding-top: 30px;
+    padding-top: 20px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .offcanvas__social {
     padding-left: 30px;
-    padding-top: 50px;
+    padding-top: 20px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .offcanvas__social {
     padding-left: 15px;
-    padding-top: 50px;
+    padding-top: 20px;
   }
 }
 .offcanvas__social .social-title {

@@ -138,7 +138,7 @@ const DigitalMarketingWorkflow = () => {
                       choose us
                     </h2>
                     <h3 className="sec-title">
-                      Keword,Research Strategy, Survey, & Analytics
+                      Keyword,Research Strategy, Solutions, & Analytics
                     </h3>
                     <p>
                       Attention, we take out our round glasses and our sweater

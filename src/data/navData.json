@@ -8,14 +8,14 @@
     },
     {
       "nav_name": "About",
-      "link": "/about-dark",
+      "link": "/about",
       "type": "",
       "sub_nav": []
     },
     
     {
       "nav_name": "Services",
-      "link": "/home",
+      "link": "/service",
       "type": "",
       "sub_nav": []
     },

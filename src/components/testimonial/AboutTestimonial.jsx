@@ -42,17 +42,17 @@ const AboutTestimonial = () => {
                       <div className="testimonial__slide">
                         <div className="testimonial__inner-2">
                           <h2 className="testimonial__title-2">
-                            Amazing digital service
+                            Amazing IT Solutions
                           </h2>
                           <p className="testimonial__text-2">
-                            We were there right at the beginning just when the
+                            Ekdant has help us just from the beginning when the
                             concept for search engine optimisation taking office
-                            and the full of internet. So wewe’ve grown to employ
+                            and the full of internet we’ve grown to employ more
                             than 50 talented specialists with diverse
                             experiences and broad skill sets of huge markers.
                           </p>
-                          <h3 className="testimonial__author">Adam Syndera</h3>
-                          <h4 className="testimonial__role">CEO, Agency</h4>
+                          <h3 className="testimonial__author">Ayush Sharma</h3>
+                          <h4 className="testimonial__role">CEO, Digital Agency</h4>
                         </div>
                       </div>
                     </SwiperSlide>
@@ -61,17 +61,13 @@ const AboutTestimonial = () => {
                       <div className="testimonial__slide">
                         <div className="testimonial__inner-2">
                           <h2 className="testimonial__title-2">
-                            Amazing digital service
+                            Trustworthy service
                           </h2>
                           <p className="testimonial__text-2">
-                            We were there right at the beginning just when the
-                            concept for search engine optimisation taking office
-                            and the full of internet. So wewe’ve grown to employ
-                            than 50 talented specialists with diverse
-                            experiences and broad skill sets of huge markers.
+                          I've partnered with Ekdant for years, and they consistently deliver top-notch IT solutions. Their team's expertise and commitment to our success have been invaluable. Ekdant's IT solutions have helped our business grow and evolve. Their proactive approach to technology keeps us ahead of the curve, and their support is always prompt and reliable.
                           </p>
-                          <h3 className="testimonial__author">Adam Syndera</h3>
-                          <h4 className="testimonial__role">CEO, Agency</h4>
+                          <h3 className="testimonial__author">Jaison John</h3>
+                          <h4 className="testimonial__role">Co Founder, Lodsa Tech</h4>
                         </div>
                       </div>
                     </SwiperSlide>
@@ -80,17 +76,48 @@ const AboutTestimonial = () => {
                       <div className="testimonial__slide">
                         <div className="testimonial__inner-2">
                           <h2 className="testimonial__title-2">
-                            Amazing digital service
+                            Cost Effective
                           </h2>
                           <p className="testimonial__text-2">
-                            We were there right at the beginning just when the
-                            concept for search engine optimisation taking office
-                            and the full of internet. So wewe’ve grown to employ
-                            than 50 talented specialists with diverse
-                            experiences and broad skill sets of huge markers.
+                          Ekdant is our go-to IT partner for everything, from cloud services to cybersecurity. Their solutions have not only streamlined our operations but also given us peace of mind in an increasingly complex digital landscape.
                           </p>
-                          <h3 className="testimonial__author">Adam Syndera</h3>
-                          <h4 className="testimonial__role">CEO, Agency</h4>
+                          <h3 className="testimonial__author">Himanshu Pandey</h3>
+                          <h4 className="testimonial__role">Freelancer</h4>
+                        </div>
+                      </div>
+                    </SwiperSlide>
+
+                    <SwiperSlide>
+                      <div className="testimonial__slide">
+                        <div className="testimonial__inner-2">
+                          <h2 className="testimonial__title-2">
+                          Innovative & Reliable
+                          </h2>
+                          <p className="testimonial__text-2">
+                          Ekdant consistently delivers innovative and reliable IT solutions. They are a true partner, not just a service provider, and we trust them to keep our technology infrastructure at its best.
+
+                          </p>
+                          <h3 className="testimonial__author">Henis Narwani</h3>
+                          <h4 className="testimonial__role">CEO, Papercraft</h4>
+                        </div>
+                      </div>
+                    </SwiperSlide>
+
+                    <SwiperSlide>
+                      <div className="testimonial__slide">
+                        <div className="testimonial__inner-2">
+                          <h2 className="testimonial__title-2">
+                          Guarantee Results
+                          </h2>
+                          <p className="testimonial__text-2">
+                          When we talk about Ekdant, we do not mean a typical
+                          business partner, but rather a team that collaborates
+                          with us daily, always there for us when we encounter
+                          difficulties and celebrate achievements. We see in
+                          Ekdant our best ally for success!
+                          </p>
+                          <h3 className="testimonial__author">Puysh Aurora</h3>
+                          <h4 className="testimonial__role">CEO, Nexsus Mobies</h4>
                         </div>
                       </div>
                     </SwiperSlide>

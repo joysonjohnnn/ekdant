@@ -96,7 +96,7 @@ const DigitalMarketingService = () => {
               <div className="service__list-3" ref={serviceList}>
                 <div className="service__item-3 service_animation">
                   <h3>
-                    <Link href="/service-details" className="service__title-3">
+                    <Link href="/service" className="service__title-3">
                     App<br />
                     Development
                     </Link>
@@ -116,7 +116,7 @@ const DigitalMarketingService = () => {
                   <div className="service__btn-3">
                     <div className="btn_wrapper">
                       <Link
-                        href="/service-details"
+                        href="/service"
                         className="wc-btn-black btn-hover btn-item"
                       >
                         <span></span> Details
@@ -135,7 +135,7 @@ const DigitalMarketingService = () => {
 
                 <div className="service__item-3 service_animation">
                   <h3>
-                    <Link href="/service-details" className="service__title-3 ">
+                    <Link href="/service" className="service__title-3 ">
                       Web <br />
                       Devlopment
                     </Link>
@@ -158,7 +158,7 @@ const DigitalMarketingService = () => {
                   <div className="service__btn-3">
                     <div className="btn_wrapper">
                       <Link
-                        href="/service-details"
+                        href="/service"
                         className="wc-btn-black btn-hover btn-item"
                       >
                         <span></span> Details
@@ -177,7 +177,7 @@ const DigitalMarketingService = () => {
 
                 <div className="service__item-3 service_animation">
                   <h3 className="">
-                    <Link href="/service-details" className="service__title-3">
+                    <Link href="/service" className="service__title-3">
                       Search Engine
                       <br />
                       Optimization
@@ -195,7 +195,7 @@ const DigitalMarketingService = () => {
                   <div className="service__btn-3">
                     <div className="btn_wrapper">
                       <Link
-                        href="/service-details"
+                        href="/service"
                         className="wc-btn-black btn-hover btn-item"
                       >
                         <span></span> Details

@@ -58,13 +58,13 @@ const DigitalMarketingHero = () => {
       video.style.display = "none";
       videoClose.style.display = "block";
       heroArea.current.classList.add("start-video");
-      headerArea.classList.add("bg-white");
+  
     } else {
       wrapper.current.style.zIndex = "999";
       video.style.display = "block";
       videoClose.style.display = "none";
       heroArea.current.classList.remove("start-video");
-      headerArea.classList.remove("bg-white");
+   
     }
   };
   return (
@@ -129,6 +129,7 @@ const DigitalMarketingHero = () => {
                   muted
                   autoPlay
                   playsInline
+                 
                 ></video>
               </div>
             </div>

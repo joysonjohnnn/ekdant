@@ -116,66 +116,54 @@ const DigitalMarketingTestimonial = () => {
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                          When we talk about Alts, we do not mean a typical
-                          business partner, but rather a team that collaborates
-                          with us daily, always there for us when we encounter
-                          difficulties and celebrate achievements. We see in
-                          Alts our best ally for success!
+                        Ekdant has help us just from the beginning when the
+                            concept for search engine optimisation taking office
+                            and the full of internet we’ve grown to employ more
+                            than 50 talented specialists with diverse
+                            experiences and broad skill sets of huge markers.
                         </p>
-                        <h2 className="client__name-3">Maria D. Halk</h2>
-                        <h3 className="client__role-3">Managing Director</h3>
+                        <h2 className="client__name-3">Ayush Sharma</h2>
+                        <h3 className="client__role-3">CEO, Digital Agency</h3>
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                          When we talk about Alts, we do not mean a typical
-                          business partner, but rather a team that collaborates
-                          with us daily, always there for us when we encounter
-                          difficulties and celebrate achievements. We see in
-                          Alts our best ally for success!
+                        I've partnered with Ekdant for years, and they consistently deliver top-notch IT solutions. Their team's expertise and commitment to our success have been invaluable. Ekdant's IT solutions have helped our business grow and evolve. Their proactive approach to technology keeps us ahead of the curve, and their support is always prompt and reliable.
                         </p>
-                        <h2 className="client__name-3">Maria D. Halk</h2>
-                        <h3 className="client__role-3">Managing Director</h3>
+                        <h2 className="client__name-3">Jaison John</h2>
+                        <h3 className="client__role-3">Co Founder, Lodsa Tech</h3>
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                          When we talk about Alts, we do not mean a typical
-                          business partner, but rather a team that collaborates
-                          with us daily, always there for us when we encounter
-                          difficulties and celebrate achievements. We see in
-                          Alts our best ally for success!
+                        Ekdant is our go-to IT partner for everything, from cloud services to cybersecurity. Their solutions have not only streamlined our operations but also given us peace of mind in an increasingly complex digital landscape.
                         </p>
-                        <h2 className="client__name-3">Maria D. Halk</h2>
-                        <h3 className="client__role-3">Managing Director</h3>
+                        <h2 className="client__name-3">Himanshu Pandey</h2>
+                        <h3 className="client__role-3">Freelancer</h3>
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                          When we talk about Alts, we do not mean a typical
-                          business partner, but rather a team that collaborates
-                          with us daily, always there for us when we encounter
-                          difficulties and celebrate achievements. We see in
-                          Alts our best ally for success!
+                        Ekdant consistently delivers innovative and reliable IT solutions. They are a true partner, not just a service provider, and we trust them to keep our technology infrastructure at its best.
                         </p>
-                        <h2 className="client__name-3">Maria D. Halk</h2>
-                        <h3 className="client__role-3">Managing Director</h3>
+                        <h2 className="client__name-3">Henis Narwani</h2>
+                        <h3 className="client__role-3">CEO, Papercraft</h3>
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                          When we talk about Alts, we do not mean a typical
+                          When we talk about Ekdant, we do not mean a typical
                           business partner, but rather a team that collaborates
                           with us daily, always there for us when we encounter
                           difficulties and celebrate achievements. We see in
-                          Alts our best ally for success!
+                          Ekdant our best ally for success!
                         </p>
-                        <h2 className="client__name-3">Maria D. Halk</h2>
-                        <h3 className="client__role-3">Managing Director</h3>
+                        <h2 className="client__name-3">Puysh Aurora</h2>
+                        <h3 className="client__role-3">CEO, Nexsus Mobies</h3>
                       </div>
                     </SwiperSlide>
                   </div>

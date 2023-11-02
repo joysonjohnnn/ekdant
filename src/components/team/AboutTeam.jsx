@@ -77,7 +77,7 @@ const AboutTeam = () => {
             speed={2000}
             breakpoints={{
               640: {
-                slidesPerView: 2,
+                slidesPerView: 3,
               },
               1000: {
                 slidesPerView: 3,
@@ -97,8 +97,8 @@ const AboutTeam = () => {
                     alt="Team Member"
                   />
                   <div className="team__info">
-                    <h4 className="team__member-name">Ayush</h4>
-                    <h5 className="team__member-role">Founder & CEO</h5>
+                    <h4 className="team__member-name">Ayush gondaliya</h4>
+                    <h5 className="team__member-role">Co Founder</h5>
                   </div>
                 </Link>
               </div>
@@ -114,7 +114,7 @@ const AboutTeam = () => {
                     alt="Team Member"
                   />
                   <div className="team__info">
-                    <h4 className="team__member-name">Hardip</h4>
+                    <h4 className="team__member-name">Hardip Bhesaniya</h4>
                     <h5 className="team__member-role">Founder & CEO</h5>
                   </div>
                 </Link>
@@ -132,7 +132,7 @@ const AboutTeam = () => {
                   />
                   <div className="team__info">
                     <h4 className="team__member-name">Jayendra</h4>
-                    <h5 className="team__member-role">Founder & CEO</h5>
+                    <h5 className="team__member-role">Co Founder</h5>
                   </div>
                 </Link>
               </div>

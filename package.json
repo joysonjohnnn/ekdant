@@ -1,12 +1,13 @@
 {
-  "name": "axtra-client",
-  "version": "0.1.0",
+  "name": "ekdant-it",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next build && next export",
     "start": "next start",
-    "prod": "next export"
+    "prod": "next lint"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",

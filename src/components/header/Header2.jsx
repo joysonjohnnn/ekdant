@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import Canvas from "../canvas/Canvas";
-import DesignStudioLogo from "../logo/DesignStudioLogo";
+import DesignStudioLogo from "../logo/LogoItem";
 import MenuWhite from "../../../public/assets/imgs/icon/menu-white.png";
 import Image from "next/image";
 import NavItem from "../nav/NavItem";

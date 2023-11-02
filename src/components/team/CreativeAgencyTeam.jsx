@@ -86,27 +86,7 @@ const CreativeAgencyTeam = () => {
                     <div className="team__name-wrap-7">
                       <p className="tm-serial">01</p>
 
-                      <h3 className="tm-name">Ayush</h3>
-                    </div>
-                    <h4 className="tm-role">
-                    Founder & CEO
-                    </h4>
-                    <div className="tm-link">
-                      <i className="fa-solid fa-arrow-right"></i>
-                    </div>
-                    <div
-                      className="team__hover-7"
-                      style={{ backgroundImage: "url(assets/imgs/team/Ayush.jpeg)" }}
-                    ></div>
-                  </div>
-                </Link>
-
-                <Link href="/about">
-                  <div className="team__item-7 fade_bottom_3">
-                    <div className="team__name-wrap-7">
-                      <p className="tm-serial">02</p>
-
-                      <h3 className="tm-name">Hardip</h3>
+                      <h3 className="tm-name">Hardip Bhesaniya</h3>
                     </div>
                     <h4 className="tm-role">
                     Founder & CEO
@@ -124,11 +104,31 @@ const CreativeAgencyTeam = () => {
                 <Link href="/about">
                   <div className="team__item-7 fade_bottom_3">
                     <div className="team__name-wrap-7">
+                      <p className="tm-serial">02</p>
+
+                      <h3 className="tm-name">Ayush gondaliya</h3>
+                    </div>
+                    <h4 className="tm-role">
+                    Co Founder
+                    </h4>
+                    <div className="tm-link">
+                      <i className="fa-solid fa-arrow-right"></i>
+                    </div>
+                    <div
+                      className="team__hover-7"
+                      style={{ backgroundImage: "url(assets/imgs/team/Ayush.jpeg)" }}
+                    ></div>
+                  </div>
+                </Link>
+
+                <Link href="/about">
+                  <div className="team__item-7 fade_bottom_3">
+                    <div className="team__name-wrap-7">
                       <p className="tm-serial">03</p>
                       <h3 className="tm-name">Jayendra</h3>
                     </div>
                     <h4 className="tm-role">
-                    Founder & CEO{" "}
+                    Co Founder{" "}
                     </h4>
                     <div className="tm-link">
                       <i className="fa-solid fa-arrow-right"></i>

@@ -14,10 +14,9 @@ const Service = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-        <RootLayout header="header3" footer="footer3">
+        <RootLayout header="header2" footer="footer1" defaultMode="dark">
           <ServiceHero />
           <Service1 />
-          <ServiceBrand />
           <DigitalAgencyCTA />
         </RootLayout>
       </main>

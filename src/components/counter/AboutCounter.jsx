@@ -94,7 +94,7 @@ const AboutCounter = () => {
                   <span className="counter__border"></span>
                 </div>
                 <div className="counter__item-2 counter__anim">
-                  <h2 className="counter__number count4">98</h2>
+                  <h2 className="counter__number count4">8</h2>
                   <p>
                     Awards <br />
                     achievement

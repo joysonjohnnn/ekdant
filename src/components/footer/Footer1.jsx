@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger, SplitText, chroma } from "@/plugins";
 import Link from "next/link.js";
-import SiteLogoWhite from "../../../public/assets/imgs/logo/site-logo-white-2.png";
+import SiteLogoWhite from "../../../public/assets/imgs/logo/logo-text.png";
 import Image from "next/image.js";
 
 gsap.registerPlugin(ScrollTrigger);
@@ -135,14 +135,14 @@ export default function Footer1() {
                 alt="Footer Logo"
               />
               <p>
-                When do they work well, and when do they on us and finally, when
-                do we actually need how can we avoid them.
+              If you would like to work with us or just want to get in
+                  touch, we’d love to hear from you!
               </p>
             </div>
             <div className="footer__social-3">
               <ul>
                 <li>
-                  <a href="#">facebook</a>
+                  <a href="#">WhatsApp</a>
                 </li>
                 <li>
                   <a href="#">Twitter</a>
@@ -186,11 +186,9 @@ export default function Footer1() {
                       <Link href="/contact">contact</Link>
                     </li>
                     <li>
-                      <Link href="/career">Career</Link>
+                      <Link href="/service">services</Link>
                     </li>
-                    <li>
-                      <Link href="/faq">FAQs</Link>
-                    </li>
+                    
                   </ul>
                 </div>
               </div>

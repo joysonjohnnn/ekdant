@@ -1,4 +1,3 @@
-import DigitalAgencyBrand from "@/components/brand/DigitalAgencyBrand";
 import RootLayout from "@/components/common/layout/RootLayout";
 import AboutCounter from "@/components/counter/AboutCounter";
 import DigitalAgencyCTA from "@/components/cta/DigitalAgencyCTA";
@@ -17,12 +16,11 @@ const About = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-        <RootLayout header="header1" footer="footer1" defaultMode="dark">
+        <RootLayout header="header2" footer="footer1" defaultMode="dark">
           <AboutHero />
           <AboutStory />
           <AboutCounter />
           <AboutTeam />
-          <DigitalAgencyBrand />
           <AboutTestimonial />
           <DigitalAgencyCTA />
         </RootLayout>

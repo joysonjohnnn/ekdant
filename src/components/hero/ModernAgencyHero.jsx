@@ -75,7 +75,7 @@ const ModernAgencyHero = () => {
               />
             </div>
             <p className="discription hero__text-animation" ref={heroTextAnim}>
-            35+ Years of delivering custom It solutions services.Leverage agile frameworks to provide a robust synopsis for high level overviews Iterative.
+            35+ Years of delivering custom IT solutions services. Leverage Agile frameworks to provide a robust synopsis for high level overviews Iterative.
             </p>
           </div>
         </div>

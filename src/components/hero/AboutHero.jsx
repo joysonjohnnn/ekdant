@@ -18,7 +18,7 @@ const AboutHero = () => {
             <div className="col-xxl-12">
               <div className="hero__about-content">
                 <h1 className="hero-title animation__word_come" ref={wordAnim}>
-                We provide perfect it solutions & technology for any startups and Brands.
+                We provide perfect IT solutions & technology for any startups and Brands.
                 </h1>
                 <div className="hero__about-info">
                   <div className="hero__about-btn">
