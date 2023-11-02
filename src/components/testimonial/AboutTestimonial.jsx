@@ -64,7 +64,7 @@ const AboutTestimonial = () => {
                             Trustworthy service
                           </h2>
                           <p className="testimonial__text-2">
-                          I've partnered with Ekdant for years, and they consistently deliver top-notch IT solutions. Their team's expertise and commitment to our success have been invaluable. Ekdant's IT solutions have helped our business grow and evolve. Their proactive approach to technology keeps us ahead of the curve, and their support is always prompt and reliable.
+                          Ive partnered with Ekdant for years, and they consistently deliver top-notch IT solutions. Their teams expertise and commitment to our success have been invaluable. Ekdant IT solutions have helped our business grow and evolve. Their proactive approach to technology keeps us ahead of the curve, and their support is always prompt and reliable.
                           </p>
                           <h3 className="testimonial__author">Jaison John</h3>
                           <h4 className="testimonial__role">Co Founder, Lodsa Tech</h4>

@@ -280,7 +280,7 @@ const Service1 = () => {
                           Motion & Branding Design
                         </h2>
                         <p>
-                        Experience the dynamic synergy of our Motion & Branding Design services. We specialize in crafting captivating visual identities and animations that breathe life into your brand. Our creative solutions resonate with your audience, leaving a lasting and memorable impression that sets you apart in today's competitive landscape
+                        Experience the dynamic synergy of our Motion & Branding Design services. We specialize in crafting captivating visual identities and animations that breathe life into your brand. Our creative solutions resonate with your audience, leaving a lasting and memorable impression that sets you apart in today competitive landscape
                         </p>
                         <ul>
                           <li>+ Logo Design</li>
